@@ -4,7 +4,7 @@ Matlab software that analyses videos of an ant trail following experiment
 ConvertCompressTrailVideos.m
 % Converts all .mp4 videos in a folder into Matlab XYT arrays, compresses them by a given factor to reduce size, and saves them into .mat files
 
-TrailFollowingVideoAnalysis.m
+TrailFollowingAnalysis.m
 % 1) Load a Matlab XYT array produced by ConvertCompressTrailVideos.m
 % 2) Select an ROI covering the experimental area in a GUI
 % 3) Select the Trail line in that GUI
